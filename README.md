@@ -1,2 +1,64 @@
-# data-science-resources
-Links to online courses, websites, and resources for learning data science
+# Data Science Resources
+Links to online courses, websites, and resources for learning data science for free
+
+## Public APIs and Datasets
+
+Public APIs https://github.com/public-apis/public-apis
+
+Public Datasets https://github.com/awesomedata/awesome-public-datasets
+
+Places to find free data sets for data science projects https://www.dataquest.io/blog/free-datasets-for-projects/
+
+## Portfolio Ideas/Examples
+
+### Ideas
+5 Data Science Projects That Will Get You Hired in 2020 https://www.dataoptimal.com/data-science-projects-2018/
+
+### Examples
+Data Engineering: https://github.com/josephwibowo/MeetBaeArea (https://josephwibowo.github.io)
+
+## Online Courses/Websites for Learning
+
+### Python Programming
+
+Python Zero to Hero https://www.udemy.com/course/complete-python-course-zero-to-hero/
+
+Code Wars www.codewars.com 
+
+
+### Probability and Statistics
+
+Stat110 Intro to Probability (Harvard) https://online-learning.harvard.edu/course/introduction-probability-edx?delta=0
+
+Probability and Statistics (CMU) https://oli.cmu.edu/courses/probability-statistics-open-free/
+
+
+### Data Visualization
+
+
+### Data Cleaning
+
+## Books
+
+Think Stats https://greenteapress.com/wp/think-stats-2e/
+
+Build a Career in Data Science https://www.manning.com/books/build-a-career-in-data-science#toc
+
+Test Driven Development in Python https://www.obeythetestinggoat.com/pages/book.html#toc
+
+## Blogs
+
+Probably Overthinking It by Allen Downey (author of Think Python and Think Bayes) https://www.allendowney.com/blog/
+
+Data Science Central https://www.datasciencecentral.com
+
+Super Data Science https://www.superdatascience.com/blogs
+
+Big Data and its impact in the news https://whatsthebigdata.com
+
+Kaggle Blog https://medium.com/kaggle-blog
+
+Towards Data Science https://towardsdatascience.com
+
+## Data Science Job Boards
+
