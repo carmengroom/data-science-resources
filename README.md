@@ -21,10 +21,14 @@ Data Engineering: https://github.com/josephwibowo/MeetBaeArea (https://josephwib
 
 ### Python Programming
 
-Python Zero to Hero https://www.udemy.com/course/complete-python-course-zero-to-hero/
+Python Zero to Hero https://www.udemy.com/course/complete-python-course-zero-to-hero/ \
+*Course that teaches you everything from very basics to object-oriented programming and additional advanced topics. Good place to start learning Python*
 
-Code Wars www.codewars.com 
+Code Wars www.codewars.com \
+*Coding challeneges*
 
+Full Stack Python https://www.fullstackpython.com \
+*Topics on everything you need to create, deploy and operate Python-powered applications*
 
 ### Probability and Statistics
 
