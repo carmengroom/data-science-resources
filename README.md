@@ -41,6 +41,8 @@ Probability and Statistics (CMU) https://oli.cmu.edu/courses/probability-statist
 
 Probability Cheat Sheet https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf
 
+Permutations and Combinations https://www.google.com/search?client=safari&rls=en&q=probability+and+factorials&ie=UTF-8&oe=UTF-8#kpvalbx=_Si62XoPUKZLrtQbYs4nQDg52
+
 
 ### Data Visualization
 
