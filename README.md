@@ -37,6 +37,8 @@ Stat110 Intro to Probability (Harvard) https://online-learning.harvard.edu/cours
 
 Probability and Statistics (CMU) https://oli.cmu.edu/courses/probability-statistics-open-free/
 
+Probability Cheat Sheet https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf
+
 
 ### Data Visualization
 
