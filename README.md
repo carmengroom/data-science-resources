@@ -14,6 +14,8 @@ Places to find free data sets for data science projects https://www.dataquest.io
 ### Ideas
 5 Data Science Projects That Will Get You Hired in 2020 https://www.dataoptimal.com/data-science-projects-2018/
 
+How to build a data science portfolio https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c
+
 ### Examples
 Data Engineering: https://github.com/josephwibowo/MeetBaeArea (https://josephwibowo.github.io)
 
