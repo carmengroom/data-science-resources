@@ -32,7 +32,8 @@ Full Stack Python https://www.fullstackpython.com \
 
 ### Probability and Statistics
 
-Stat110 Intro to Probability (Harvard) https://online-learning.harvard.edu/course/introduction-probability-edx?delta=0
+Stat110 Intro to Probability (Harvard) https://online-learning.harvard.edu/course/introduction-probability-edx?delta=0 \
+*Book for course is available for free online. Introduction to Probability. See below under "Books" section*
 
 Probability and Statistics (CMU) https://oli.cmu.edu/courses/probability-statistics-open-free/
 
@@ -49,6 +50,8 @@ Think Stats https://greenteapress.com/wp/think-stats-2e/
 Build a Career in Data Science https://www.manning.com/books/build-a-career-in-data-science#toc
 
 Test Driven Development in Python https://www.obeythetestinggoat.com/pages/book.html#toc
+
+Introduction to Probability by Joseph K. Blitzstein https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view
 
 ## Blogs
 
