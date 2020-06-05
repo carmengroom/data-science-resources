@@ -34,6 +34,8 @@ Full Stack Python https://www.fullstackpython.com \
 
 ### Probability and Statistics
 
+Statistics with Python https://www.coursera.org/specializations/statistics-with-python
+
 Stat110 Intro to Probability (Harvard) https://online-learning.harvard.edu/course/introduction-probability-edx?delta=0 \
 *Book for course is available for free online. Introduction to Probability. See below under "Books" section*
 
