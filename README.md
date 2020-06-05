@@ -43,6 +43,9 @@ Probability Cheat Sheet https://static1.squarespace.com/static/54bf3241e4b0f0d81
 
 Permutations and Combinations https://www.google.com/search?client=safari&rls=en&q=probability+and+factorials&ie=UTF-8&oe=UTF-8#kpvalbx=_Si62XoPUKZLrtQbYs4nQDg52
 
+### Mathematics
+Article: How much math do you need to know to become a Data Scientist
+https://flatironschool.com/blog/how-much-math-do-you-need-to-become-a-data-scientist
 
 ### Data Visualization
 
